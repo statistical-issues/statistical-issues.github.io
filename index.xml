@@ -7,21 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Wed, 09 Mar 2016 00:11:02 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 09 Mar 2016 20:08:11 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Getting started</title>
-      <link>/getting-started/</link>
-      <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
-      
-      <guid>/getting-started/</guid>
-      <description>Installation Installing Hugo Hugo itself is just a single binary without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases. You just need to download the latest version. For more information read the official installation guides.
-Let&amp;rsquo;s make sure Hugo is set up as expected. You should see a similar version number in your terminal:
-hugo version # Hugo Static Site Generator v0.15 BuildDate: 2016-01-03T12:47:47+01:00  Installing Material Next, assuming you have Hugo up and running the hugo-material-docs theme can be installed with git:</description>
-    </item>
     
     <item>
       <title>Roadmap</title>
@@ -45,6 +34,42 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
     </item>
     
     <item>
+      <title>Introduction to Python</title>
+      <link>/post/introduction-to-python/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introduction-to-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to R</title>
+      <link>/post/introduction-to-r/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introduction-to-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Likelihood</title>
+      <link>/post/likelihood/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/likelihood/</guid>
+      <description>intro</description>
+    </item>
+    
+    <item>
+      <title>Linear Regression</title>
+      <link>/post/linear-regression/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/linear-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adding content</title>
       <link>/adding-content/</link>
       <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
@@ -56,17 +81,28 @@ Since it&amp;rsquo;s possible to have multiple content files in the same section
     </item>
     
     <item>
-      <title>Material for Hugo</title>
+      <title>Getting started</title>
+      <link>/getting-started/</link>
+      <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
+      
+      <guid>/getting-started/</guid>
+      <description>Installation Installing Hugo Hugo itself is just a single binary without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases. You just need to download the latest version. For more information read the official installation guides.
+Let&amp;rsquo;s make sure Hugo is set up as expected. You should see a similar version number in your terminal:
+hugo version # Hugo Static Site Generator v0.15 BuildDate: 2016-01-03T12:47:47+01:00  Installing Material Next, assuming you have Hugo up and running the hugo-material-docs theme can be installed with git:</description>
+    </item>
+    
+    <item>
+      <title>A web about Statistics, Modelling and Programming</title>
       <link>/</link>
       <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
       
       <guid>/</guid>
-      <description>Beautiful documentation Material is a theme for Hugo, a fast and flexible static site generator. It is built using Google&amp;rsquo;s material design guidelines, fully responsive, optimized for touch and pointer devices as well as all sorts of screen sizes.
-Material is very lightweight – it is built from scratch using Javascript and CSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts and Analytics). Yet, it is highly customizable and degrades gracefully in older browsers.</description>
+      <description>Welcome! This a documentation web about statistical theory, modelling and implimentation. We try to cover brief theory about models being used as well as implementations on some programming languages like R and Python.
+Theme Material is a theme for Hugo, a fast and flexible static site generator. It is built using Google&amp;rsquo;s material design guidelines, fully responsive, optimized for touch and pointer devices as well as all sorts of screen sizes.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
+      <title>Random Variables</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       

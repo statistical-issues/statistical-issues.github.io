@@ -1,0 +1,14 @@
+---
+title: Testing
+author: ~
+date: '2017-08-26'
+slug: testing
+categories: []
+tags: []
+menu:
+  main:
+    parent: Likelihood
+    idenitfier: Likel
+    weight: 5
+---
+

@@ -7,13 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 26 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
+      <title>Introduction to Python</title>
+      <link>/post/introduction-to-python/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introduction-to-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to R</title>
+      <link>/post/introduction-to-r/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introduction-to-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Likelihood</title>
+      <link>/post/likelihood/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/likelihood/</guid>
+      <description>intro</description>
+    </item>
+    
+    <item>
+      <title>Linear Regression</title>
+      <link>/post/linear-regression/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/linear-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Variables</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
