@@ -10,5 +10,6 @@ menu:
     parent: Modelling
     idenitfier: Linear Regression
     weight: 5
+menuname: "stat"
 ---
 

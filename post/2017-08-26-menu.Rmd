@@ -5,7 +5,8 @@ date: '2017-08-26'
 slug: Checking
 categories: []
 tags: []
-menu: ["program", "main"]
+menuname: "stat"
+menu: stat
 ---
 
 fdsfds fds

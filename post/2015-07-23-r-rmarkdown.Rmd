@@ -9,6 +9,7 @@ menu:
     parent: Statistics
     idenitfier: Random Variables
     weight: 5
+menuname: "main"
 ---
 
 ```{r setup, include=FALSE}

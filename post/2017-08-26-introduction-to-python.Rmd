@@ -10,5 +10,6 @@ menu:
     parent: Python Tutorials
     idenitfier: Introduction to Python
     weight: 5
+menuname: "stat"
 ---
 

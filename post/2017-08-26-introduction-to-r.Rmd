@@ -10,5 +10,6 @@ menu:
     parent: R Tutorials
     idenitfier: Introduction to R
     weight: 5
+menuname: "stat"
 ---
 
