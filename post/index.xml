@@ -7,54 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Sat, 26 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Checking</title>
-      <link>/post/checking/</link>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      <title>Geostatistics</title>
+      <link>/post/2017-09-01-geostatistics-in-r/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/checking/</guid>
-      <description>fdsfds fds</description>
+      <guid>/post/2017-09-01-geostatistics-in-r/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
-      <title>Introduction to Python</title>
-      <link>/post/introduction-to-python/</link>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      <title>How to setup a web with blogdown</title>
+      <link>/post/how-to-setup-a-web-with-blogdown/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/introduction-to-python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to R</title>
-      <link>/post/introduction-to-r/</link>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/introduction-to-r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Likelihood</title>
-      <link>/post/likelihood/</link>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/likelihood/</guid>
-      <description>intro</description>
-    </item>
-    
-    <item>
-      <title>Linear Regression</title>
-      <link>/post/linear-regression/</link>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/linear-regression/</guid>
-      <description></description>
+      <guid>/post/how-to-setup-a-web-with-blogdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>

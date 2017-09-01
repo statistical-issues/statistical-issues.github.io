@@ -9,18 +9,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=10" />
-    <title>Statistcal Inference - Statistical Issues</title>
+    <title>Geostatistics - Statistical Issues</title>
     <meta name="generator" content="Hugo 0.26" />
 
     
     <meta name="description" content="A website about statistical modelling and related topics.">
     
-    <link rel="canonical" href="/inference/introduction/">
+    <link rel="canonical" href="/post/2017-09-01-geostatistics-in-r/">
     
     <meta name="author" content="Erick Chacon, Vilma Romero and Rommy Camasca">
     
 
-    <meta property="og:url" content="/inference/introduction/">
+    <meta property="og:url" content="/post/2017-09-01-geostatistics-in-r/">
     <meta property="og:title" content="Statistical Issues">
     <meta property="og:image" content="/images/logo.png">
     <meta name="apple-mobile-web-app-title" content="Statistical Issues">
@@ -202,14 +202,11 @@
 
 
 
-<a class="current" title="Introduction" href="/inference/introduction/">
+<a  title="Blogdown" href="/post/how-to-setup-a-web-with-blogdown/">
 	
-	Introduction
+	Blogdown
 </a>
 
-
-<ul id="scrollspy">
-</ul>
 
 
   
@@ -223,11 +220,14 @@
 
 
 
-<a  title="Likelihood Function" href="/inference/likelihood/">
+<a class="current" title="Geostatistics" href="/post/2017-09-01-geostatistics-in-r/">
 	
-	Likelihood Function
+	Geostatistics
 </a>
 
+
+<ul id="scrollspy">
+</ul>
 
 
   
@@ -386,9 +386,47 @@
 
 	<article class="article">
 		<div class="wrapper">
-			<h1>Statistcal Inference </h1>
+			<h1>Geostatistics </h1>
 
-			<p>intro</p>
+			<div id="r-markdown" class="section level2">
+<h2>R Markdown</h2>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>summary(cars)</code></pre>
+<pre><code>##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00</code></pre>
+<pre class="r"><code>fit &lt;- lm(dist ~ speed, data = cars)
+fit</code></pre>
+<pre><code>## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level2">
+<h2>Including Plots</h2>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span id="fig:pie"></span>
+<img src="/post/2017-09-01-geostatistics-in-r_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>
 
 
 			<aside class="copyright" role="note">
@@ -407,7 +445,7 @@
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
   
-      <a href="/software/introduction/" title="Programming">
+      <a href="/license/" title="License">
         <span class="direction">
           Previous
         </span>
@@ -417,7 +455,7 @@
           </div>
           <div class="stretch">
             <div class="title">
-              Programming
+              License
             </div>
           </div>
         </div>
@@ -427,14 +465,14 @@
 
   <div class="next">
   
-      <a href="/modelling/introduction/" title="Statistical Modelling">
+      <a href="/post/how-to-setup-a-web-with-blogdown/" title="How to setup a web with blogdown">
         <span class="direction">
           Next
         </span>
         <div class="page">
           <div class="stretch">
             <div class="title">
-              Statistical Modelling
+              How to setup a web with blogdown
             </div>
           </div>
           <div class="button button-next" role="button" aria-label="Next">
