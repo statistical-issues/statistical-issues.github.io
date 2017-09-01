@@ -3,48 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/roadmap/</loc>
-    <lastmod>2016-03-09T20:08:11+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/license/</loc>
     <lastmod>2016-03-09T20:10:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/checking/</loc>
+    <loc>/software/introduction-to-python/</loc>
     <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/introduction-to-python/</loc>
+    <loc>/software/introduction-to-r/</loc>
     <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/introduction-to-r/</loc>
+    <loc>/inference/likelihood/</loc>
     <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/likelihood/</loc>
+    <loc>/modelling/linear-regression/</loc>
     <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/linear-regression/</loc>
+    <loc>/software/introduction/</loc>
     <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/</loc>
-    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
+    <loc>/inference/introduction/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/getting-started/</loc>
-    <lastmod>2016-03-09T00:11:02+01:00</lastmod>
+    <loc>/modelling/introduction/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,14 +48,13 @@
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/computing/introduction/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/</loc>
-    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
-    <priority>0</priority>
+    <loc>/statistics/introduction/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -69,8 +63,14 @@
   </url>
   
   <url>
-    <loc>/getting-started/</loc>
-    <lastmod>2016-03-09T00:11:02+01:00</lastmod>
+    <loc>/computing/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/inference/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -81,14 +81,14 @@
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/modelling/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,14 +111,20 @@
   </url>
   
   <url>
-    <loc>/roadmap/</loc>
-    <lastmod>2016-03-09T20:08:11+01:00</lastmod>
+    <loc>/software/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-03-09T20:08:11+01:00</lastmod>
+    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/statistics/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   

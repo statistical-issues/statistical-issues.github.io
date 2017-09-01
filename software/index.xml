@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares on Statistical Issues</title>
+    <link>/software/</link>
+    <description>Recent content in Softwares on Statistical Issues</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Sat, 26 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Python</title>
+      <link>/software/introduction-to-python/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/software/introduction-to-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to R</title>
+      <link>/software/introduction-to-r/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/software/introduction-to-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/software/introduction/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/software/introduction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

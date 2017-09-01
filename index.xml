@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Wed, 09 Mar 2016 20:08:11 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 09 Mar 2016 20:10:46 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Roadmap</title>
-      <link>/roadmap/</link>
-      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
-      
-      <guid>/roadmap/</guid>
-      <description>Quo vadis? The port of the original Material theme has replicated nearly all of its features. A few are still missing but I&amp;rsquo;ve good news: the Hugo community is actively working on this issues. Maybe with the next release of Hugo we can abandon this list. Stay tuned.
-Localization Currently, it is possible to collect all strings in a single place for easy customization. However, this only enables you to define all strings in a single language.</description>
-    </item>
     
     <item>
       <title>License</title>
@@ -34,70 +24,66 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
     </item>
     
     <item>
-      <title>Checking</title>
-      <link>/post/checking/</link>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/checking/</guid>
-      <description>fdsfds fds</description>
-    </item>
-    
-    <item>
       <title>Introduction to Python</title>
-      <link>/post/introduction-to-python/</link>
+      <link>/software/introduction-to-python/</link>
       <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/introduction-to-python/</guid>
+      <guid>/software/introduction-to-python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to R</title>
-      <link>/post/introduction-to-r/</link>
+      <link>/software/introduction-to-r/</link>
       <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/introduction-to-r/</guid>
+      <guid>/software/introduction-to-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Likelihood</title>
-      <link>/post/likelihood/</link>
+      <link>/inference/likelihood/</link>
       <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/likelihood/</guid>
+      <guid>/inference/likelihood/</guid>
       <description>intro</description>
     </item>
     
     <item>
       <title>Linear Regression</title>
-      <link>/post/linear-regression/</link>
+      <link>/modelling/linear-regression/</link>
       <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/linear-regression/</guid>
+      <guid>/modelling/linear-regression/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adding content</title>
-      <link>/adding-content/</link>
-      <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
+      <title>Programming</title>
+      <link>/software/introduction/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/adding-content/</guid>
-      <description>Hello world Let&amp;rsquo;s create our first content file for your documentation. Open a terminal and add the following command for each new file you want to add. Replace &amp;lt;section-name&amp;gt; with a general term that describes your document in detail.
-hugo new &amp;lt;section-name&amp;gt;/filename.md  Visitors of your website will find the final document under www.example.com/&amp;lt;section-name&amp;gt;/filename/.
-Since it&amp;rsquo;s possible to have multiple content files in the same section I recommend to create at least one index.</description>
+      <guid>/software/introduction/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Getting started</title>
-      <link>/getting-started/</link>
-      <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
+      <title>Statistcal Inference</title>
+      <link>/inference/introduction/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/getting-started/</guid>
-      <description>Installation Installing Hugo Hugo itself is just a single binary without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases. You just need to download the latest version. For more information read the official installation guides.
-Let&amp;rsquo;s make sure Hugo is set up as expected. You should see a similar version number in your terminal:
-hugo version # Hugo Static Site Generator v0.15 BuildDate: 2016-01-03T12:47:47+01:00  Installing Material Next, assuming you have Hugo up and running the hugo-material-docs theme can be installed with git:</description>
+      <guid>/inference/introduction/</guid>
+      <description>intro</description>
+    </item>
+    
+    <item>
+      <title>Statistical Modelling</title>
+      <link>/modelling/introduction/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/modelling/introduction/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -111,11 +97,22 @@ Theme Material is a theme for Hugo, a fast and flexible static site generator. I
     </item>
     
     <item>
-      <title>Random Variables</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <title>Computing Methods</title>
+      <link>/computing/introduction/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/computing/introduction/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Concepts of Statistics and Probabilities</title>
+      <link>/statistics/introduction/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/statistics/introduction/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>

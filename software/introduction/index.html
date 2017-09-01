@@ -9,18 +9,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=10" />
-    <title>testing - Statistical Issues</title>
+    <title>Programming - Statistical Issues</title>
     <meta name="generator" content="Hugo 0.26" />
 
     
     <meta name="description" content="A website about statistical modelling and related topics.">
     
-    <link rel="canonical" href="/post/2017-08-26-prueba2/">
+    <link rel="canonical" href="/software/introduction/">
     
     <meta name="author" content="Erick Chacon, Vilma Romero and Rommy Camasca">
     
 
-    <meta property="og:url" content="/post/2017-08-26-prueba2/">
+    <meta property="og:url" content="/software/introduction/">
     <meta property="og:title" content="Statistical Issues">
     <meta property="og:image" content="/images/logo.png">
     <meta name="apple-mobile-web-app-title" content="Statistical Issues">
@@ -66,6 +66,8 @@
     </style>
 
     
+    <link rel="stylesheet" href="/mycss.css">
+    
     <script src="/javascripts/modernizr.js"></script>
 
     
@@ -88,18 +90,28 @@
 <label class="toggle-button overlay" for="toggle-drawer"></label>
 
 <header class="header">
-	<nav aria-label="Header">
+	
+
+<nav aria-label="Header1">
+
   <div class="bar default">
     <div class="button button-menu" role="button" aria-label="Menu">
       <label class="toggle-button icon icon-menu" for="toggle-drawer">
         <span></span>
       </label>
     </div>
-    <div class="stretch">
-      <div class="title">
-        testing
-      </div>
-    </div>
+
+   <div class="topnav">
+      
+     <ul>
+       <li style="float:left"> <a href="/">Statistical Issues</a> </li>
+       <li style="float:right"> <a href="/software/introduction">Software</a> </li>
+       <li style="float:right"> <a href="/computing/introduction">Computing</a> </li>
+       <li style="float:right"> <a href="/modelling/introduction">Modelling</a> </li>
+       <li style="float:right"> <a href="/inference/introduction">Inference</a> </li>
+       <li style="float:right"> <a href="/statistics/introduction">Statistics</a> </li>
+     </ul>
+  </div>
 
     
 
@@ -108,8 +120,8 @@
       <a href="https://github.com/digitalcraftsman" title="@digitalcraftsman on GitHub" target="_blank" class="toggle-button icon icon-github"></a>
     </div>
     
+
     
-        
   </div>
   <div class="bar search">
     <div class="button button-close" role="button" aria-label="Close">
@@ -125,6 +137,7 @@
     </div>
   </div>
 </nav>
+
 </header>
 
 <main class="main">
@@ -174,51 +187,10 @@
 
 
 
-<li>
-  
-    <span class="section">Statistics</span>
-    <ul>
-      
-        
-        
 
 
 
-<a  title="Random Variables" href="/post/2015-07-23-r-rmarkdown/">
-	
-	Random Variables
-</a>
 
-
-
-      
-    </ul>
-  
-</li>
-
-
-
-<li>
-  
-    <span class="section">Inference</span>
-    <ul>
-      
-        
-        
-
-
-
-<a  title="Likelihood" href="/post/likelihood/">
-	
-	Likelihood
-</a>
-
-
-
-      
-    </ul>
-  
-</li>
 
 
 
@@ -228,67 +200,9 @@
 
 
 
-<a  title="Modelling" href="/">
+<a class="current" title="Introduction" href="/software/introduction/">
 	
-	Modelling
-</a>
-
-
-
-  
-</li>
-
-
-
-<li>
-  
-    
-
-
-
-<a  title="Software" href="/">
-	
-	Software
-</a>
-
-
-
-  
-</li>
-
-
-
-<li>
-  
-    
-
-
-
-<a  title="About" href="/">
-	
-	About
-</a>
-
-
-
-  
-</li>
-
-
-
-<li>
-  
-    <span class="section">Plop</span>
-    <ul>
-      
-        
-        
-
-
-
-<a class="current" title="testing" href="/post/2017-08-26-prueba2/">
-	
-	testing
+	Introduction
 </a>
 
 
@@ -296,8 +210,6 @@
 </ul>
 
 
-      
-    </ul>
   
 </li>
 
@@ -338,17 +250,9 @@
 
 	<article class="article">
 		<div class="wrapper">
-			<h1>testing </h1>
+			<h1>Programming </h1>
 
 			
-
-<pre><code class="language-r setup, include=FALSE">knitr::opts_chunk$set(collapse = TRUE)
-</code></pre>
-
-<h1 id="r-markdown">R Markdown</h1>
-
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com">http://rmarkdown.rstudio.com</a>.</p>
-
 
 			<aside class="copyright" role="note">
 				
@@ -366,7 +270,7 @@
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
   
-      <a href="/post/2015-07-23-r-rmarkdown/" title="Random Variables">
+      <a href="/modelling/linear-regression/" title="Linear Regression">
         <span class="direction">
           Previous
         </span>
@@ -376,7 +280,7 @@
           </div>
           <div class="stretch">
             <div class="title">
-              Random Variables
+              Linear Regression
             </div>
           </div>
         </div>
@@ -385,6 +289,22 @@
   </div>
 
   <div class="next">
+  
+      <a href="/inference/introduction/" title="Statistcal Inference">
+        <span class="direction">
+          Next
+        </span>
+        <div class="page">
+          <div class="stretch">
+            <div class="title">
+              Statistcal Inference
+            </div>
+          </div>
+          <div class="button button-next" role="button" aria-label="Next">
+            <i class="icon icon-forward"></i>
+          </div>
+        </div>
+      </a>
   
   </div>
 </nav>

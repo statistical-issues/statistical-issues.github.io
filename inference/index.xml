@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inferences on Statistical Issues</title>
+    <link>/inference/</link>
+    <description>Recent content in Inferences on Statistical Issues</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Sat, 26 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/inference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Likelihood</title>
+      <link>/inference/likelihood/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/inference/likelihood/</guid>
+      <description>intro</description>
+    </item>
+    
+    <item>
+      <title>Statistcal Inference</title>
+      <link>/inference/introduction/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/inference/introduction/</guid>
+      <description>intro</description>
+    </item>
+    
+  </channel>
+</rss>
