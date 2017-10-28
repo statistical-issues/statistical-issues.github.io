@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Wed, 09 Mar 2016 20:10:46 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 08 Mar 2016 21:07:13 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A web about Statistics, Modelling and Programming</title>
+      <link>/</link>
+      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
+      
+      <guid>/</guid>
+      <description>Welcome! This a documentation web about statistical theory, modelling and implimentation. We try to cover brief theory about models being used as well as implementations on some programming languages like R and Python.
+Quick start Install with git:
+git clone git@github.com:digitalcraftsman/hugo-material-docs.git themes/hugo-material-docs  Features  Beautiful, readable and very user-friendly design based on Google&amp;rsquo;s material design guidelines, packed in a full responsive template with a well-defined and easily customizable color palette, great typography, as well as a beautiful search interface and footer.</description>
+    </item>
     
     <item>
       <title>License</title>
@@ -31,7 +42,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
       <guid>/post/2017-09-01-geostatistics-in-r/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars)  ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
     <item>
@@ -42,7 +53,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <guid>/post/how-to-setup-a-web-with-blogdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars)  ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
     <item>
@@ -78,8 +89,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/modelling/linear-regression/</guid>
-      <description>fdsf fdsfd
- </description>
+      <description>fdsf fdsfd</description>
     </item>
     
     <item>
@@ -89,8 +99,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>/software/introduction/</guid>
       <description>bla
-a fd fdsfdsf
- </description>
+a fd fdsfdsf</description>
     </item>
     
     <item>
@@ -101,8 +110,7 @@ a fd fdsfdsf
       <guid>/inference/2017-08-10-test/</guid>
       <description>dfdf intro
 fdsfdsf fdsf
- fsdafdsf fdsf
-  </description>
+fsdafdsf fdsf</description>
     </item>
     
     <item>
@@ -121,8 +129,17 @@ fdsfdsf fdsf
       
       <guid>/modelling/introduction/</guid>
       <description>Introduction
-fdsfds jfds
- </description>
+fdsfds jfds</description>
+    </item>
+    
+    <item>
+      <title>Markdown test</title>
+      <link>/statistics/2017-10-01-testing/</link>
+      <pubDate>Wed, 08 Mar 2017 21:07:13 +0100</pubDate>
+      
+      <guid>/statistics/2017-10-01-testing/</guid>
+      <description>Welcome! This a documentation web about statistical theory, modelling and implimentation. We try to cover brief theory about models being used as well as implementations on some programming languages like R and Python.
+Theme Material is a theme for Hugo, a fast and flexible static site generator. It is built using Google&amp;rsquo;s material design guidelines, fully responsive, optimized for touch and pointer devices as well as all sorts of screen sizes.</description>
     </item>
     
     <item>
@@ -132,16 +149,6 @@ fdsfds jfds
       
       <guid>/blog/</guid>
       <description>this is a test</description>
-    </item>
-    
-    <item>
-      <title>A web about Statistics, Modelling and Programming</title>
-      <link>/</link>
-      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
-      
-      <guid>/</guid>
-      <description>Welcome! This a documentation web about statistical theory, modelling and implimentation. We try to cover brief theory about models being used as well as implementations on some programming languages like R and Python.
-Theme Material is a theme for Hugo, a fast and flexible static site generator. It is built using Google&amp;rsquo;s material design guidelines, fully responsive, optimized for touch and pointer devices as well as all sorts of screen sizes.</description>
     </item>
     
     <item>
@@ -156,14 +163,13 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>Concepts of Statistics and Probabilities</title>
+      <title>Concepts of Statistics and Probabilitieds</title>
       <link>/statistics/introduction/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/statistics/introduction/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <description>Welcome! This a documentation web about statistical theory, modelling and implimentation. We try to cover brief theory about models being used as well as implementations on some programming languages like R and Python.
+Theme Material is a theme for Hugo, a fast and flexible static site generator. It is built using Google&amp;rsquo;s material design guidelines, fully responsive, optimized for touch and pointer devices as well as all sorts of screen sizes.</description>
     </item>
     
   </channel>

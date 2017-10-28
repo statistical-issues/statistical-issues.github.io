@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2016-03-08T21:07:13+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/license/</loc>
     <lastmod>2016-03-09T20:10:46+01:00</lastmod>
   </url>
@@ -63,22 +68,17 @@
   </url>
   
   <url>
+    <loc>/statistics/2017-10-01-testing/</loc>
+    <lastmod>2017-03-08T21:07:13+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2016-03-08T21:07:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2016-03-08T21:07:13+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/computing/introduction/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistics/introduction/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -97,6 +97,10 @@
     <loc>/computing/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/statistics/introduction/</loc>
   </url>
   
   <url>
@@ -149,13 +153,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
+    <lastmod>2016-03-08T21:07:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/statistics/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2017-03-08T21:07:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
