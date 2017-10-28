@@ -8,8 +8,8 @@
   </url>
   
   <url>
-    <loc>/license/</loc>
-    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
+    <loc>/post/2017-09-01-how-to-setup-a-web-with-blogdown/</loc>
+    <lastmod>2017-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,18 +18,13 @@
   </url>
   
   <url>
-    <loc>/post/how-to-setup-a-web-with-blogdown/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <loc>/software/introduction-to-r/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/software/introduction-to-python/</loc>
-    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/software/introduction-to-r/</loc>
-    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -70,6 +65,11 @@
   <url>
     <loc>/statistics/2017-10-01-testing/</loc>
     <lastmod>2017-03-08T21:07:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/license/</loc>
+    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
   </url>
   
   <url>
@@ -147,7 +147,7 @@
   
   <url>
     <loc>/software/</loc>
-    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

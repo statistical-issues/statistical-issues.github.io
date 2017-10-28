@@ -24,14 +24,14 @@ git clone git@github.com:digitalcraftsman/hugo-material-docs.git themes/hugo-mat
     </item>
     
     <item>
-      <title>License</title>
-      <link>/license/</link>
-      <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
+      <title>How to setup a web with blogdown</title>
+      <link>/post/2017-09-01-how-to-setup-a-web-with-blogdown/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/license/</guid>
-      <description>Copyright &amp;copy; 2016 Digitalcraftsman digitalcraftsman@protonmail.com
-Copyright &amp;copy; 2016 Martin Donath martin.donath@squidfunk.com
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+      <guid>/post/2017-09-01-how-to-setup-a-web-with-blogdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)  ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
     <item>
@@ -46,32 +46,21 @@ summary(cars)  ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 
     </item>
     
     <item>
-      <title>How to setup a web with blogdown</title>
-      <link>/post/how-to-setup-a-web-with-blogdown/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Introduction to R</title>
+      <link>/software/introduction-to-r/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-to-setup-a-web-with-blogdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)  ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+      <guid>/software/introduction-to-r/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Introduction to Python</title>
       <link>/software/introduction-to-python/</link>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/software/introduction-to-python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to R</title>
-      <link>/software/introduction-to-r/</link>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/software/introduction-to-r/</guid>
-      <description></description>
+      <description>blas</description>
     </item>
     
     <item>
@@ -140,6 +129,17 @@ fdsfds jfds</description>
       <guid>/statistics/2017-10-01-testing/</guid>
       <description>Welcome! This a documentation web about statistical theory, modelling and implimentation. We try to cover brief theory about models being used as well as implementations on some programming languages like R and Python.
 Theme Material is a theme for Hugo, a fast and flexible static site generator. It is built using Google&amp;rsquo;s material design guidelines, fully responsive, optimized for touch and pointer devices as well as all sorts of screen sizes.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>/license/</link>
+      <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
+      
+      <guid>/license/</guid>
+      <description>Copyright &amp;copy; 2016 Digitalcraftsman digitalcraftsman@protonmail.com
+Copyright &amp;copy; 2016 Martin Donath martin.donath@squidfunk.com
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
     </item>
     
     <item>

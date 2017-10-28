@@ -9,18 +9,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=10" />
-    <title>Introduction to R - Statistical Issues</title>
+    <title>How to setup a web with blogdown - Statistical Issues</title>
     <meta name="generator" content="Hugo 0.30.2" />
 
     
     <meta name="description" content="A website about statistical modelling and related topics.">
     
-    <link rel="canonical" href="/software/introduction-to-r/">
+    <link rel="canonical" href="/post/2017-09-01-how-to-setup-a-web-with-blogdown/">
     
     <meta name="author" content="Erick Chacon, Vilma Romero and Rommy Camasca">
     
 
-    <meta property="og:url" content="/software/introduction-to-r/">
+    <meta property="og:url" content="/post/2017-09-01-how-to-setup-a-web-with-blogdown/">
     <meta property="og:title" content="Statistical Issues">
     <meta property="og:image" content="/images/bla.png">
     <meta name="apple-mobile-web-app-title" content="Statistical Issues">
@@ -100,7 +100,7 @@
     </div>
     <div class="stretch">
       <div class="title">
-        Introduction to R
+        How to setup a web with blogdown
       </div>
     </div>
 
@@ -233,6 +233,55 @@
 
 
     
+      <ul>
+        
+          
+          
+          
+
+
+
+<a  title="Full list" href="/post/">
+	
+	Full list
+</a>
+
+
+
+        
+          
+          
+          
+
+
+
+<a  title="Geostatistics" href="/post/2017-09-01-geostatistics-in-r/">
+	
+	Geostatistics
+</a>
+
+
+
+        
+          
+          
+          
+
+
+
+<a class="current" title="How to setup a web with blogdown" href="/post/2017-09-01-how-to-setup-a-web-with-blogdown/">
+	
+	How to setup a web with blogdown
+</a>
+
+
+<ul id="scrollspy">
+</ul>
+
+
+        
+      </ul>
+    
   
 </li>
 
@@ -348,55 +397,6 @@
 
 
     
-      <ul>
-        
-          
-          
-          
-
-
-
-<a  title="Programming" href="/software/introduction/">
-	
-	Programming
-</a>
-
-
-
-        
-          
-          
-          
-
-
-
-<a  title="python" href="/software/introduction-to-python/">
-	
-	python
-</a>
-
-
-
-        
-          
-          
-          
-
-
-
-<a class="current" title="r" href="/software/introduction-to-r/">
-	
-	r
-</a>
-
-
-<ul id="scrollspy">
-</ul>
-
-
-        
-      </ul>
-    
   
 </li>
 
@@ -431,9 +431,56 @@
 
 	<article class="article">
 		<div class="wrapper">
-			<h1>Introduction to R </h1>
+			<h1>How to setup a web with blogdown </h1>
 
 			
+
+<h2 id="r-markdown">R Markdown</h2>
+
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com">http://rmarkdown.rstudio.com</a>.</p>
+
+<p>You can embed an R code chunk like this:</p>
+
+<pre><code class="language-r">summary(cars)
+</code></pre>
+
+<pre><code>##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+</code></pre>
+
+<pre><code class="language-r">fit &lt;- lm(dist ~ speed, data = cars)
+fit
+</code></pre>
+
+<pre><code>## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932
+</code></pre>
+
+<h2 id="including-plots">Including Plots</h2>
+
+<p>You can also embed plots. See Figure \@ref(fig:pie) for example:</p>
+
+<pre><code class="language-r">par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+</code></pre>
+
+<p><img src="/post/2017-09-01-how-to-setup-a-web-with-blogdown/figure/pie-1.png" alt="A fancy pie chart." /></p>
+
 
 			<aside class="copyright" role="note">
 				
@@ -455,7 +502,7 @@
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
   
-      <a href="/software/introduction-to-python/" title="Introduction to Python">
+      <a href="/post/2017-09-01-geostatistics-in-r/" title="Geostatistics">
         <span class="direction">
           Previous
         </span>
@@ -465,7 +512,7 @@
           </div>
           <div class="stretch">
             <div class="title">
-              Introduction to Python
+              Geostatistics
             </div>
           </div>
         </div>
