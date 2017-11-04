@@ -133,10 +133,10 @@ Theme Material is a theme for Hugo, a fast and flexible static site generator. I
     
     <item>
       <title>License</title>
-      <link>/license/</link>
+      <link>/material-license/</link>
       <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
       
-      <guid>/license/</guid>
+      <guid>/material-license/</guid>
       <description>Copyright &amp;copy; 2016 Digitalcraftsman digitalcraftsman@protonmail.com
 Copyright &amp;copy; 2016 Martin Donath martin.donath@squidfunk.com
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
