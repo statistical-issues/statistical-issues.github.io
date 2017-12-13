@@ -13,14 +13,13 @@
     
     
     <item>
-      <title>A web about Statistics, Modelling and Programming</title>
+      <title>Welcome to Statistical Issues!</title>
       <link>/</link>
       <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
       
       <guid>/</guid>
-      <description>Welcome! This a documentation web about statistical theory, modelling and implimentation. We try to cover brief theory about models being used as well as implementations on some programming languages like R and Python.
-Quick start Install with git:
-git clone git@github.com:digitalcraftsman/hugo-material-docs.git themes/hugo-material-docs  Features  Beautiful, readable and very user-friendly design based on Google&amp;rsquo;s material design guidelines, packed in a full responsive template with a well-defined and easily customizable color palette, great typography, as well as a beautiful search interface and footer.</description>
+      <description>This a documentation web about statistical theory, modelling and implementation. We try to cover brief theory about models being used as well as implementations on some programming languages like R and Python.
+Authors  Erick Chacon   Vilma Romero   Rommy Camasca  Features  Beautiful, readable and very user-friendly design based on Google&amp;rsquo;s material design guidelines, packed in a full responsive template with a well-defined and easily customizable color palette, great typography, as well as a beautiful search interface and footer.</description>
     </item>
     
     <item>
