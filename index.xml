@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statistical Issues</title>
+    <title>Recent Posts on Statistical Issues</title>
     <link>/</link>
-    <description>Recent content on Statistical Issues</description>
+    <description>Recent content in Recent Posts on Statistical Issues</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
@@ -11,16 +11,6 @@
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Welcome to Statistical Issues!</title>
-      <link>/</link>
-      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
-      
-      <guid>/</guid>
-      <description>This a documentation web about statistical theory, modelling and implementation. We try to cover brief theory about models being used as well as implementations on some programming languages like R and Python.
-Authors  Erick Chacon  Erick Chacon is a PhD student in Statistics and Epidemiology in the Faculty of Health and Medicine at Lancaster University, where he works in the research group CHICAS (Combining Health, Information, Computation and Statistics).</description>
-    </item>
     
     <item>
       <title>How to setup a web with blogdown</title>
@@ -142,23 +132,15 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
     </item>
     
     <item>
-      <title>A web about Statistics, Modelling and Programming</title>
-      <link>/blog/</link>
-      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
-      
-      <guid>/blog/</guid>
-      <description>this is a test</description>
-    </item>
-    
-    <item>
       <title>Computing Methods</title>
       <link>/computing/introduction/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/computing/introduction/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>baaa
+R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
     <item>
