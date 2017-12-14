@@ -132,6 +132,16 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
     </item>
     
     <item>
+      <title>Welcome to Statistical Issues!</title>
+      <link>/about/about/</link>
+      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>This a documentation web about statistical theory, modelling and implementation. We try to cover brief theory about models being used as well as implementations on some programming languages like R and Python.
+Authors  Erick Chacon  Erick Chacon is a PhD student in Statistics and Epidemiology in the Faculty of Health and Medicine at Lancaster University, where he works in the research group CHICAS (Combining Health, Information, Computation and Statistics).</description>
+    </item>
+    
+    <item>
       <title>Computing Methods</title>
       <link>/computing/introduction/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>

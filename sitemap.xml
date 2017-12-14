@@ -68,6 +68,11 @@
   </url>
   
   <url>
+    <loc>/about/about/</loc>
+    <lastmod>2016-03-08T21:07:13+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/computing/introduction/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -75,6 +80,12 @@
   <url>
     <loc>/post/</loc>
     <lastmod>2017-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2016-03-08T21:07:13+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
